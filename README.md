@@ -6,7 +6,7 @@ You will lose coins.
 
 ----
 
-Btw: I'm looking for the best BitcoinABC meme - and it will published here!
+Btw: I'm looking for the best BitcoinABC meme - and it will be published here!
 
 The winner can add his donation address and it will get published too!
 
