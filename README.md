@@ -6,17 +6,24 @@ You will lose coins.
 
 ---
 
-# Reasons why big block solutions are generally garbage:
+# Reasons why big block solution like Segwit2x are generally garbage:
 
 
-* Bandwidth problems (https://www.youtube.com/watch?time_continue=2941&v=iFJ2MZ3KciQ)
-* Storage problems (f.e. https://twitter.com/slushcz/status/895537494049030146 follow thread)
+* Bandwidth problems
+  * [Video by RichardHeartWin](https://www.youtube.com/watch?time_continue=2941&v=iFJ2MZ3KciQ)
+* Storage and other resource problems
+  * [Slush's twitter thread](https://twitter.com/slushcz/status/895537494049030146)
 * Has no consensus
 * Is rushed
 * Implements no replay protection by purpose (which will lead to losses for many untechy people)
-* Ignores peer review (f.e. all core developers are against it https://en.bitcoin.it/wiki/Segwit_support)
+* Ignores peer review
+  * [All core developers are against it](https://en.bitcoin.it/wiki/Segwit_support)
 * Codebase is outdated
-* It will lead to more centralization (See Cornell study here: http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)
+* Will lead to more centralization
+  * [See the Cornell study](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)
 * Is not community driven but by some (strange) companies
-* Other scaling solutions scale much much better (lightning, mast, schnorr)
+* Other scaling solutions scale much much better, increase decentralization again and have much lower fees 
+  * Lightning network
+  * MAST signatures
+  * Schnorr 
 
