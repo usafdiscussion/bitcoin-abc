@@ -1,13 +1,4 @@
-# Bitcoin-ABC
-
-Don't.run.it.
-
-You will lose coins.
-
----
-
-# Reasons why big block solution like Segwit2x are generally garbage:
-
+# Reasons why Segwit2x is garbage (same applies for BCH):
 
 * Bandwidth problems
   * [Video by RichardHeartWin](https://www.youtube.com/watch?time_continue=2941&v=iFJ2MZ3KciQ)
