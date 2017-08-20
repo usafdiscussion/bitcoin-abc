@@ -14,14 +14,18 @@ You will lose coins.
 * Storage and other resource problems
   * [Slush's twitter thread](https://twitter.com/slushcz/status/895537494049030146)
 * Has no consensus
-* Is rushed
+  * [ALL core developers are against it](https://en.bitcoin.it/wiki/Segwit_support)
+  * [Sybil resistant poll on coinbase shows big opposition](https://luke.dashjr.org/programs/kycpoll/answers.php)
+* Is rushed (3 months is absolutely not enough)
 * Implements no replay protection by purpose (which will lead to losses for many untechy people)
 * Ignores peer review
-  * [All core developers are against it](https://en.bitcoin.it/wiki/Segwit_support)
+  * [ALL core developers are against it](https://en.bitcoin.it/wiki/Segwit_support)
 * Codebase is outdated
 * Will lead to more centralization
   * [See the Cornell study](http://fc16.ifca.ai/bitcoin/papers/CDE+16.pdf)
 * Is not community driven but by some (strange) companies
+* Contentious forks lead weakens both chains
+  * [Can lead to chain hopping](https://eprint.iacr.org/2017/731.pdf)
 * Other scaling solutions scale much much better, increase decentralization again and have much lower fees 
   * Lightning network
   * MAST signatures
