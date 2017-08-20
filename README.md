@@ -22,3 +22,5 @@
   * [MAST signatures](https://bitcoincore.org/en/2016/06/24/segwit-next-steps/#mast)
   * [Schnorr signatures](https://medium.com/@SDWouters/why-schnorr-signatures-will-help-solve-2-of-bitcoins-biggest-problems-today-9b7718e7861c)
 
+
+*Feel free to contribute on the Github repo: [https://github.com/usafdiscussion/bitcoin-abc](https://github.com/usafdiscussion/bitcoin-abc)*
