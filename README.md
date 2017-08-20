@@ -22,5 +22,10 @@
   * [MAST signatures](https://bitcoincore.org/en/2016/06/24/segwit-next-steps/#mast)
   * [Schnorr signatures](https://medium.com/@SDWouters/why-schnorr-signatures-will-help-solve-2-of-bitcoins-biggest-problems-today-9b7718e7861c)
 
+## Bitcoin Core: Correcting misinformation on Segwit2x and btc1
+
+* [https://bitcoincore.org/en/2017/08/18/btc1-misleading-statements/](https://bitcoincore.org/en/2017/08/18/btc1-misleading-statements/)
+
+----
 
 *Feel free to contribute on the Github repo: [https://github.com/usafdiscussion/bitcoin-abc](https://github.com/usafdiscussion/bitcoin-abc)*
